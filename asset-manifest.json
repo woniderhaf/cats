@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/woniderhaf/cats/static/css/main.b9efebd7.css",
+    "main.js": "/woniderhaf/cats/static/js/main.46dedc8d.js",
+    "index.html": "/woniderhaf/cats/index.html",
+    "main.b9efebd7.css.map": "/woniderhaf/cats/static/css/main.b9efebd7.css.map",
+    "main.46dedc8d.js.map": "/woniderhaf/cats/static/js/main.46dedc8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9efebd7.css",
+    "static/js/main.46dedc8d.js"
+  ]
+}
